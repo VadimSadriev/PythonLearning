@@ -1,0 +1,52 @@
+py -3 setup.py sdist   -- command for file dist on windows, mymodules$ python3 setup.py sdist --- unix like os
+py -3 -- command to run python interpretator
+py -3 -m pip install archive_name.zip -- command to setup file dist for windows, /dist$ sudo python3 -m pip install archive.zip -- command for linux
+
+
+
+create database [dbName]   --- simply create database in mysql console
+
+grant all on [dbName].* to 'login' identified by 'password' -- create account with rights on [dbName] database 
+
+mysql -u userName -p password  --- comands to log in as user
+
+
+dbconfig = {'host': '127.0.0.1',
+	    'user': 'mySQlUser',
+ 	    'password': 'mySQlUserPassword',
+            'database': 'dbName'}
+
+conn = mysql.connector.connect(**dbconfig) -- make connection
+
+cursor = conn.cursor() -- create cursor to make queries to db
+
+_SQL = """Query""" -- sql query
+
+cursor.execute(_SQL) -- execute sql
+
+cursor.fetchone -- return result one by one
+
+cursor.fetchmany -- return certain number of results
+
+cursor.fetchall -- return all results
+
+conn.commit() -- store cached data in db
+
+
+check for collections, itertools and functools from standard libraries of python!!!!!!!!!!!!!!!!!!!!!!!!
+
+For parrallel programming modules - multiprocessing - split tasks on different cores, asyncio - parallel execution,
+ concurrent.futures - start collecction of tasks at the same time
+
+
+another libraries:
+bokeh - интерактивные графики на вебстраницах,
+matplotlib/seaborn - графики,
+numpy - эфективно хранить и обрабатывать ћЌќ√ќћ≈–Ќџ≈ данные(матрицы),
+scipy - научные модули, анализ численных данных,
+pandas - FOR DATA SCIENCE,
+scikit-learn - множество алгоритмов машинного обучени€
+
+beatiful soup, scrapy - дл€ веб скрапинга
+
+SQL Alchemy - высокоуровневые технологии дл€ работы с бд

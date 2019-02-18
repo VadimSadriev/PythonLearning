@@ -1,0 +1,21 @@
+ImmutableMultiDict([('phrase', 'Ihave a power'), ('letters', 'aeiou')])
+127.0.0.1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+{'o', 'a', 'e'}
+ImmutableMultiDict([('phrase', 'zdarova'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'zdarova'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'zdarova'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'zdarovza'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'zdarovza'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'zdarovza'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'privet'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'privet'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'Privet'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'zdarova'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'privet'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'privet'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'privet'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'kak dela'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'privet'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'privet'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
+ImmutableMultiDict([('phrase', 'kak dela'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36|<Request 'http://127.0.0.1:5000/search4' [POST]>
